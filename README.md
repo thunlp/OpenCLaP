@@ -35,3 +35,7 @@ unzip baike.zip
 ```
 
 * 在运行时指定使用我们的模型`--bert_model $model_folder`来进行使用
+
+## 项目网站
+
+请访问 http://zoo.thunlp.org 以获得更多有关信息。
