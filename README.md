@@ -4,6 +4,8 @@
 * [项目简介](#项目简介)
 * [模型概览](#模型概览)
 * [使用方式](#使用方式)
+* [项目网站](#项目网站)
+* [作者与致谢](#作者与致谢)
 
 ## 项目简介
 
@@ -39,3 +41,11 @@ unzip ms.zip
 ## 项目网站
 
 请访问 http://zoo.thunlp.org 以获得更多有关信息。
+
+## 作者与致谢
+
+Haoxi Zhong（钟皓曦，硕士生）, Zhengyan Zhang（张正彦，本科生）, [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/)（刘知远，副教授）, [Maosong Sun](http://nlp.csai.tsinghua.edu.cn/site2/index.php/zh/people?id=16)（孙茂松，教授）.
+
+感谢[幂律智能](http://powerlaw.ai/)对本项目的大力支持与帮助。
+
+![img](http://zoo.thunlp.org/static/images/powerlaw.png)
