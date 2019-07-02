@@ -7,7 +7,7 @@
 
 ## 项目简介
 
-OpenCLaP（Open **C**hinese **La**nguage **P**re-trained Model Zoo）是由清华大学人工智能研究院自然语言研究中心推出的一个多领域中文预训练模型仓库。预训练语言模型通过在大规模文本上进行预训练，可以作为下游自然语言处理任务的模型参数或者模型输入以提高模型的整体性能。该模型仓库具有如下几个特点：
+OpenCLaP（Open **C**hinese **La**nguage **P**re-trained Model Zoo）是由清华大学人工智能研究院自然语言处理与社会人文计算研究中心推出的一个多领域中文预训练模型仓库。预训练语言模型通过在大规模文本上进行预训练，可以作为下游自然语言处理任务的模型参数或者模型输入以提高模型的整体性能。该模型仓库具有如下几个特点：
 
 - 多领域。我们目前训练出了基于法律文本和百度百科的预训练模型，以提供多样化的可选择模型。
 - 能力强。我们使用了当前主流的 BERT 模型作为预训练的神经网络结构，并支持最大 512 长度的文本输入来适配更加多样的任务需求。
@@ -17,11 +17,11 @@ OpenCLaP（Open **C**hinese **La**nguage **P**re-trained Model Zoo）是由清�
 
 以下是我们目前公开发布的模型概览：
 
-| 名称         | 基础模型  | 数据来源                            | 训练数据大小 | 词表大小 | 下载地址 |
-| ------------ | --------- | ----------------------------------- | ------------ | -------- | -------- |
-| 民事文书BERT | bert-base | 全部民事文书                        | 2654万篇文书 | 22554    | [点我下载](https://thunlp.oss-cn-qingdao.aliyuncs.com/bert/ms.zip)     |
-| 刑事文书BERT | bert-base | 全部刑事文书                        | 663万篇文书  | 22554    | [点我下载](https://thunlp.oss-cn-qingdao.aliyuncs.com/bert/xs.zip)     |
-| 百度百科BERT | bert-base | [百度百科](http://baike.baidu.com/) | 903万篇词条  | 22166    | [点我下载](https://thunlp.oss-cn-qingdao.aliyuncs.com/bert/baike.zip)     |
+| 名称         | 基础模型  | 数据来源                            | 训练数据大小 | 词表大小 | 模型大小 | 下载地址 |
+| ------------ | --------- | ----------------------------------- | ------------ | -------- | -------- | -------- |
+| 民事文书BERT | bert-base | 全部民事文书                        | 2654万篇文书 | 22554    | 370MB | [点我下载](https://thunlp.oss-cn-qingdao.aliyuncs.com/bert/ms.zip)     |
+| 刑事文书BERT | bert-base | 全部刑事文书                        | 663万篇文书  | 22554  | 370MB  | [点我下载](https://thunlp.oss-cn-qingdao.aliyuncs.com/bert/xs.zip)     |
+| 百度百科BERT | bert-base | [百度百科](http://baike.baidu.com/) | 903万篇词条  | 22166  | 367MB  | [点我下载](https://thunlp.oss-cn-qingdao.aliyuncs.com/bert/baike.zip)     |
 
 ## 使用方式
 
