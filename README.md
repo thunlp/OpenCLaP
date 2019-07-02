@@ -48,4 +48,4 @@ Haoxi Zhong（钟皓曦，硕士生）, Zhengyan Zhang（张正彦，本科生�
 
 感谢[幂律智能](http://powerlaw.ai/)对本项目的大力支持与帮助。
 
-![img](http://zoo.thunlp.org/static/images/powerlaw.png)
+<img src="http://zoo.thunlp.org/static/images/powerlaw.png" height="120px">
