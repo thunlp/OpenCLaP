@@ -42,6 +42,19 @@ unzip ms.zip
 
 请访问 http://zoo.thunlp.org 以获得更多有关信息。
 
+## 引用
+
+Bibtex：
+
+```tex
+@techreport{zhong2019openclap,
+  title={Open Chinese Language Pre-trained Model Zoo},
+  author={Zhong, Haoxi and Zhang, Zhengyan and Liu, Zhiyuan and Sun, Maosong},
+  year={2019},
+  url = "https://github.com/thunlp/openclap",
+}
+```
+
 ## 作者与致谢
 
 Haoxi Zhong（钟皓曦，硕士生）, Zhengyan Zhang（张正彦，本科生）, [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/)（刘知远，副教授）, [Maosong Sun](http://nlp.csai.tsinghua.edu.cn/site2/index.php/zh/people?id=16)（孙茂松，教授）.
